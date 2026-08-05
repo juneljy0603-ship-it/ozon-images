@@ -1,0 +1,184 @@
+{
+  "content": [
+    {
+      "widgetName": "raShowcase",
+      "type": "tile",
+      "title": "WiFi Smart Dimmer",
+      "text": "Умный диммер Wi-Fi для умного дома",
+      "images": [
+        {
+          "image": {
+            "url": "https://cdn.jsdelivr.net/gh/juneljy0603-ship-it/ozon-images@main/ds18-detail/%E9%A6%96%E5%B1%8F.png",
+            "width": 1080,
+            "height": 1080
+          }
+        }
+      ]
+    },
+    {
+      "widgetName": "raShowcase",
+      "type": "tile",
+      "title": "Основные функции",
+      "text": "Многофункциональный диммер с настройкой яркости",
+      "images": [
+        {
+          "image": {
+            "url": "https://cdn.jsdelivr.net/gh/juneljy0603-ship-it/ozon-images@main/ds18-detail/%E5%8A%9F%E8%83%BD.png",
+            "width": 1080,
+            "height": 1080
+          }
+        }
+      ]
+    },
+    {
+      "widgetName": "raShowcase",
+      "type": "tile",
+      "title": "Технические параметры",
+      "text": "Полные технические характеристики устройства",
+      "images": [
+        {
+          "image": {
+            "url": "https://cdn.jsdelivr.net/gh/juneljy0603-ship-it/ozon-images@main/ds18-detail/%E5%8F%82%E6%95%B0.png",
+            "width": 1080,
+            "height": 1080
+          }
+        }
+      ]
+    },
+    {
+      "widgetName": "raShowcase",
+      "type": "tile",
+      "title": "Управление через приложение",
+      "text": "Smartphone control via Tuya/Smart Life APP",
+      "images": [
+        {
+          "image": {
+            "url": "https://cdn.jsdelivr.net/gh/juneljy0603-ship-it/ozon-images@main/ds18-detail/APP.png",
+            "width": 1080,
+            "height": 1080
+          }
+        }
+      ]
+    },
+    {
+      "widgetName": "raShowcase",
+      "type": "tile",
+      "title": "Таймер",
+      "text": "Функция таймера и расписания",
+      "images": [
+        {
+          "image": {
+            "url": "https://cdn.jsdelivr.net/gh/juneljy0603-ship-it/ozon-images@main/ds18-detail/%E5%AE%9A%E6%97%B6.png",
+            "width": 1080,
+            "height": 1080
+          }
+        }
+      ]
+    },
+    {
+      "widgetName": "raShowcase",
+      "type": "tile",
+      "title": "Голосовое управление",
+      "text": "Совместимость с Алисой и другими ассистентами",
+      "images": [
+        {
+          "image": {
+            "url": "https://cdn.jsdelivr.net/gh/juneljy0603-ship-it/ozon-images@main/ds18-detail/%E8%AF%AD%E9%9F%B3.png",
+            "width": 1080,
+            "height": 1080
+          }
+        }
+      ]
+    },
+    {
+      "widgetName": "raShowcase",
+      "type": "tile",
+      "title": "Групповое управление",
+      "text": "Создание групп устройств для совместного управления",
+      "images": [
+        {
+          "image": {
+            "url": "https://cdn.jsdelivr.net/gh/juneljy0603-ship-it/ozon-images@main/ds18-detail/%E7%BE%A4%E7%BB%84.png",
+            "width": 1080,
+            "height": 1080
+          }
+        }
+      ]
+    },
+    {
+      "widgetName": "raShowcase",
+      "type": "tile",
+      "title": "Память состояния",
+      "text": "Восстановление состояния после отключения питания",
+      "images": [
+        {
+          "image": {
+            "url": "https://cdn.jsdelivr.net/gh/juneljy0603-ship-it/ozon-images@main/ds18-detail/%E6%96%AD%E7%94%B5%E8%AE%B0%E5%BF%86.png",
+            "width": 1080,
+            "height": 1080
+          }
+        }
+      ]
+    },
+    {
+      "widgetName": "raShowcase",
+      "type": "tile",
+      "title": "Схема подключения",
+      "text": "Подробная схема подключения устройства",
+      "images": [
+        {
+          "image": {
+            "url": "https://cdn.jsdelivr.net/gh/juneljy0603-ship-it/ozon-images@main/ds18-detail/%E6%8E%A5%E7%BA%BF%E5%9B%BE.png",
+            "width": 1080,
+            "height": 1080
+          }
+        }
+      ]
+    },
+    {
+      "widgetName": "raShowcase",
+      "type": "tile",
+      "title": "Совместимые лампы",
+      "text": "Поддержка различных типов ламп",
+      "images": [
+        {
+          "image": {
+            "url": "https://cdn.jsdelivr.net/gh/juneljy0603-ship-it/ozon-images@main/ds18-detail/%E9%80%82%E9%85%8D%E7%9A%84%E7%81%AF%E6%B3%A1.png",
+            "width": 1080,
+            "height": 1080
+          }
+        }
+      ]
+    },
+    {
+      "widgetName": "raShowcase",
+      "type": "tile",
+      "title": "Компактный размер",
+      "text": "Миниатюрный размер для скрытого монтажа",
+      "images": [
+        {
+          "image": {
+            "url": "https://cdn.jsdelivr.net/gh/juneljy0603-ship-it/ozon-images@main/ds18-detail/%E5%B0%8F%E5%B7%A7.png",
+            "width": 1080,
+            "height": 1080
+          }
+        }
+      ]
+    },
+    {
+      "widgetName": "raShowcase",
+      "type": "tile",
+      "title": "Комплект поставки",
+      "text": "Полный комплект поставки продукта",
+      "images": [
+        {
+          "image": {
+            "url": "https://cdn.jsdelivr.net/gh/juneljy0603-ship-it/ozon-images@main/ds18-detail/%E6%B8%85%E5%8D%95.png",
+            "width": 1080,
+            "height": 1080
+          }
+        }
+      ]
+    }
+  ]
+}
